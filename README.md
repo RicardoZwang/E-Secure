@@ -1,1 +1,10 @@
 # E-Secure
+
+RUN MYSQL CONTAINER FIRST
+./run-sql.sh
+
+INSTALL NPM DEPENDENCIES
+npm run install:both
+
+RUN BACKEND AND FRONTEND CODE TOGETHER
+npm run start:both
