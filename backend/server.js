@@ -1,37 +1,44 @@
-const express = require('express');
-const mysql = require('mysql');
-
+const express = require("express");
+const cors = require("cors");
 const app = express();
-const port = 3001;
+const path = require("path");
+const { createProxyMiddleware } = require("http-proxy-middleware");
+const connection = require("./config/dbconfig");
+const setupRoutes = require("./routes/apiRoutes");
 
-// MySQL connection
-const connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'guang',
-  password: '123',
-  database: 'mydb'
-});
-
-connection.connect();
-const cors = require('cors');
 app.use(cors());
 
-app.get('/message', (req, res) => {
-  // Fetch a message from the database
-  connection.query('SELECT message FROM messages LIMIT 1;', (err, results) => {
-    if (err) throw err;
-    res.send({ message: results[0].message });
-  });
+// Serve static files from the frontend's dist directory
+app.use(express.static(path.join(__dirname, "../frontend/dist")));
+
+app.use(express.json());
+// Proxy requests to the FastAPI application
+app.use(
+  "/detect",
+  createProxyMiddleware({
+    target: "http://3.104.105.167:3002",
+    changeOrigin: true,
+    onProxyReq: (proxyReq, req, res) => {
+      console.log("Request made to FastAPI:", req.method, req.url);
+    },
+    onProxyRes: (proxyRes, req, res) => {
+      console.log("Response received from FastAPI:", proxyRes.statusCode);
+    },
+    onError: (err, req, res) => {
+      console.error("Error in proxy:", err);
+      res.status(500).send("Proxy error");
+    },
+  })
+);
+
+app.get("/", (req, res) => {
+  res.send("This is backend");
 });
 
-app.listen(port, () => {
-  console.log(`Server listening at http://localhost:${port}`);
+setupRoutes(app, connection);
+// Add this to handle any other GET request not handled above and serve index.html
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(__dirname, "../frontend/dist", "index.html"));
 });
 
-connection.connect((err) => {
-  if (err) {
-    console.error('Error connecting to MySQL database:', err);
-    return;
-  }
-  console.log('Connected to MySQL database successfully!');
-});
+module.exports = app;

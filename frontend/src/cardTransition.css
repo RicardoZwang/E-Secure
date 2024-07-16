@@ -1,0 +1,18 @@
+.card-enter {
+  transform: translateX(100%);
+  opacity: 0;
+}
+.card-enter-active {
+  transform: translateX(0);
+  opacity: 1;
+  transition: transform 300ms, opacity 300ms;
+}
+.card-exit {
+  transform: translateX(0);
+  opacity: 1;
+}
+.card-exit-active {
+  transform: translateX(-100%);
+  opacity: 0;
+  transition: transform 300ms, opacity 300ms;
+}

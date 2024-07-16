@@ -1,53 +1,121 @@
-import React, { useEffect, useState } from 'react'
-import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai'
-import { NavLink } from 'react-router-dom';
-import '../assets/style/navbar.css'
+import { CiMenuFries } from "react-icons/ci";
+import { IoMdClose } from "react-icons/io";
+import React, { useState, useEffect } from "react";
+import { NavLink } from "react-router-dom";
+import styles from "../styles";
 
-
-export const Navbar = () => {
-  const [nav, setNav] = useState(false)
-  const handleNav = () => {
-    setNav(!nav)
-  }
-
-  // Adjust the nav state based on the window width
+function NavBar() {
   useEffect(() => {
-    const checkSize = () => {
-      if (window.innerWidth >= 768) { //768px is the 'md' breakpoint
-        setNav(false);
+    function handleResize() {
+      // Checks if the screen width is greater than or equal to the medium breakpoint (768px)
+      if (window.innerWidth >= 768) {
+        setToggle(false);
       }
+    }
+
+    // Add event listener
+    window.addEventListener("resize", handleResize);
+
+    // Call handler right away so state gets updated with initial window size
+    handleResize();
+
+    // Remove event listener on cleanup
+    return () => {
+      window.removeEventListener("resize", handleResize);
     };
-
-    // Check the size initially and upon window resize
-    checkSize();
-    window.addEventListener('resize', checkSize);
-
-    // Cleanup the event listener on component unmount
-    return () => window.removeEventListener('resize', checkSize);
   }, []);
+  //This is for the transitioning between menu icon and cross icon
+  const [toggle, setToggle] = useState(false);
+  const handleToggle = () => {
+    setToggle(!toggle);
+  };
+
+  const menuicon = "w-[28px] h-[28px] object-contain";
+  const menuclose = <IoMdClose size={25} color='white' className={menuicon} />;
+  const menu = <CiMenuFries size={25} color='white' className={menuicon} />;
+
+  //This is just constants for the links to other pages
+  const homepage = [
+    { id: "/", title: "Home", active: false },
+    { id: "simulation", title: "Simulation", active: false },
+    { id: "learning_center", title: "Learning Center", active: false },
+    { id: "data", title: "Data", active: true },
+    { id: "news", title: "News", active: false },
+  ];
 
   return (
-    <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
-      <ul className='hidden md:flex'>
-        <li className='p-4'><NavLink to="/">Home</NavLink></li>
-        <li className='p-4'><NavLink to="/data">Data</NavLink></li>
-        <li className='p-4 '><NavLink to="/sumlator">Simulation</NavLink></li>
-      </ul>
-      <div onClick={handleNav} className='block md:hidden'>
-
-        {nav ? <AiOutlineClose size={25} /> : <AiOutlineMenu size={25} />}
-
+    <>
+      {/*<div className='scroll-watcher' style={{ width: scrollWidth,  }} />*/}
+      <div
+        className={`top-0 bg-gradient-to-r from-blue-800 to-indigo-900 w-full overflow-hidden bg-opacity-95 sticky z-50`}
+      >
+        <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+          <div className={`${styles.boxWidth}`}>
+            <nav className='w-full flex py-6 justify-between items-center navbar '>
+              <NavLink
+                className={`w-[124px] h-[32px] text-[26px] text-[#34d399] font-semibold font-poppins `}
+                to='/'
+              >
+                E-Secure
+              </NavLink>
+              <ul className='list-none sm:flex hidden justify-end items-center flex-1'>
+                {/* Here we loop through the whole constant nav bar values to display it on screen */}
+                {homepage.map((nav, index) => (
+                  <li
+                    key={nav.id}
+                    className={`font-poppins font-normal cursor-pointer text-[20px] text-white transition-transform duration-300 transform hover:scale-110  ${
+                      index == homepage.length - 1 ? "mr-0" : "mr-10"
+                    }`}
+                  >
+                    {/* Change font color to green if its the page the user on. */}
+                    <NavLink
+                      to={`${nav.id}`}
+                      style={({ isActive }) => ({
+                        color: isActive ? "#34d399" : "white",
+                      })}
+                    >
+                      {nav.title}
+                    </NavLink>
+                  </li>
+                ))}
+              </ul>
+              {/* When it riches small screen it will become a menu for better view */}
+              <div className='sm:hidden flex flex-1 justify-end items-center md:hidden'>
+                <div onClick={handleToggle}>{toggle ? menuclose : menu}</div>
+                <div
+                  className={`${
+                    toggle ? "flex opacity-100" : "hidden opacity-0"
+                  } transition-opacity duration-300 p-6 bg-black-gradient fixed top-20 right-0 mx-4 my-2 min-w-[140px] rounded-xl sidebar `}
+                >
+                  {/* Functionality is the same as previous one */}
+                  <ul className='list-none flex flex-col justify-end items-center flex-1'>
+                    {homepage.map((nav, index) => (
+                      <li
+                        key={nav.id}
+                        className={`font-poppins font-normal cursor-pointer text-[20px] text-white transition-transform duration-300 transform hover:scale-110 ${
+                          index == homepage.length - 1 ? "mr-0" : "mb-4"
+                        }`}
+                      >
+                        <NavLink
+                          to={`${nav.id}`}
+                          style={({ isActive }) => ({
+                            color: isActive ? "#34d399" : "white",
+                          })}
+                          onClick={() => setToggle(false)} // Close menu on link click
+                        >
+                          {nav.title}
+                        </NavLink>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </nav>
+          </div>
+        </div>
       </div>
-      <div className={`${nav ? 'fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500' : 'ease-in-out fixed left-[-100%]'} md:hidden`}>
-
-        <ul className='pt-4 uppercase'>
-          <li className='p-4 border-b border-gray-600'><NavLink to="/" onClick={() => setNav(false)}>Home</NavLink></li>
-          <li className='p-4 border-b border-gray-600'><NavLink to="/data" onClick={() => setNav(false)}>Data</NavLink></li>
-          <li className='p-4 border-b border-gray-600'><NavLink to="/simulator" onClick={() => setNav(false)}>Simulation</NavLink></li>
-        </ul>
-      </div>
-    </div>
-  )
+    </>
+  );
 }
 
-export default Navbar
+export default NavBar;

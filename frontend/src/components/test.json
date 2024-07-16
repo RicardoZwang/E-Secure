@@ -1,0 +1,773 @@
+{
+    "status": "ok",
+    "totalResults": 59,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Emma Hannigan",
+            "title": "Money laundering charges laid after alleged cold call scam nets $1.5m",
+            "description": "Queensland police are warning people to stay vigilant about investment fraud after dozens of people were allegedly defrauded. The accused parties had their cases mentioned in a Gold Coast court today.",
+            "url": "https://www.abc.net.au/news/2024-04-29/four-charged-over-alleged-gold-coast-cold-call-scam/103779786",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/529a58516d55f89fa4f5dbc6610c0811?impolicy=wcms_watermark_news&cropH=393&cropW=700&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-29T03:22:04Z",
+            "content": "<ul><li>In short: Detectives allege several Gold Coast companies defrauded more than $1.5 million from about 30 people.</li><li>Multiple companies were allegedly involved, including Crypto Advisers A… [+1920 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Annika Burgess",
+            "title": "Australian victim of fraud syndicate on mission to stop others being burned",
+            "description": "Australians are losing millions to international fraud syndicates posting fake ads on social media. One woman who lost more than $100,000 after being \"brainwashed\" is determined to stop it from happening to others.",
+            "url": "https://www.abc.net.au/news/2024-04-15/australians-falling-for-facebook-fake-ads-online-trading-scams/103640678",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5178d554446ba1f0c580fcda60830e58?impolicy=wcms_watermark_news&cropH=676&cropW=1200&xPos=0&yPos=61&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-14T19:14:34Z",
+            "content": "Over months of daily calls, fake balance sheets and racing to the ATM in a panic, Deb lost her superannuation and savings to scammers.\r\nNow, whenever she logs onto Facebook, she gets \"furious\".\r\nIn h… [+9265 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Niki Burnside",
+            "title": "Five arrested over global phishing scam that allegedly claimed about 94,000 Australian victims",
+            "description": "Five Australians are among 39 individuals who have been arrested in relation to an alleged global phishing scam that targeted tens of thousands of people, the Australian Federal Police said today.",
+            "url": "https://www.abc.net.au/news/2024-04-18/five-arrested-over-global-phishing-scam-global-sting/103738840",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f63091986e32d3be7c55f873fab45435?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-18T01:12:16Z",
+            "content": "Five Australians are among 39 individuals who have been arrested in relation to an alleged global phishing scam that targeted tens of thousands of people, the Australian Federal Police said today.\r\nP… [+3775 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Bree Dwyer",
+            "title": "AI scammers impersonate Sunshine Coast mayor on Skype as experts warn this cybercrime is 'just beginning'",
+            "description": "Authorities are investigating a sophisticated new scam that uses artificial intelligence to create fake live video calls.",
+            "url": "https://www.abc.net.au/news/2024-05-02/scammers-ai-impersonate-sunshine-coast-mayor-video-call/103794690",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/23e1d559e6a10ff7b15fa5af99b73861?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=276&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-02T07:05:44Z",
+            "content": "<ul><li>In short: Artificial intelligence is being used in sophisticated new scams to impersonate people on video calls with facial altering technology.</li><li>Sunshine Coast Mayor Rosanna Natoli's … [+6161 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Josh Robertson",
+            "title": "Authorities strike back at Russian cybercrime gang by unmasking its alleged kingpin",
+            "description": "Ransomware outfit LockBit once offered a million-dollar bounty for anyone who could 'doxx' its leader.  Now governments including Australia's have obliged.",
+            "url": "https://www.abc.net.au/news/2024-05-08/lockbit-russian-cyber-crime-gang-ransomware/103821568",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/24a36c670542fa6bf02e382dfb0e91bd?impolicy=wcms_watermark_news&cropH=216&cropW=384&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-08T07:45:08Z",
+            "content": "In the right hands or the wrong ones it's the kind of sensitive information that could be used to steal a person's identity and wreak financial havoc in their name.\r\nBut the target of this \"doxxing\" … [+8084 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Lucia Stein",
+            "title": "'People with malicious intent, they are capitalising on this': Is this the world's weirdest scam?",
+            "description": "American journalist Deborah Vankin can still recall sitting down one day to read her own obituary. Her search to uncover who was behind it, unearthed a cottage industry of spammy websites run by 'obit pirates'.",
+            "url": "https://www.abc.net.au/news/2024-04-27/the-obit-piracy-scam/103633058",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/39de7b5dd9ca532197214f0d36fdcec9?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=281&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-26T19:10:55Z",
+            "content": "American journalist Deborah Vankin was surprised to discover one morning that the internet believed she was dead.\r\nThe day started like any other with a frenzy of activity as she raced to get out the… [+13197 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Evan Young, Leonie Thorne, and Michael Atkin",
+            "title": "'Prioritise customers over profit': As authorities trumpet action on scams, devastated victims demand more",
+            "description": "Authorities say new scam figures show their action on scams is working — but consumer groups and devastated victims say it's nowhere near enough.",
+            "url": "https://www.abc.net.au/news/2024-04-29/accc-scams-fraud-victims-call-for-more-action/103772080",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6d96f54ef3ed8f46e9d4282d36e3af92?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-29T02:44:01Z",
+            "content": "Jenny Ng and Jian Lim often received text messages from their bank, HSBC, so it didn't ring any alarm bells when a message about fraudulent activity was sent from the bank's number.\r\nThe text, sent l… [+8914 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Evan Young and Leonie Thorne",
+            "title": "Scammers stole $2.7 billion from Australians in 2023, report reveals",
+            "description": "The number of scams reported by Australians has hit a new record high, even though the amount lost has declined.",
+            "url": "https://www.abc.net.au/news/2024-04-28/scam-losses-in-2023-banks-government-accc-report-technology-work/103777548",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9cabac4ea7800aba88dd48250b2e7ad1?impolicy=wcms_watermark_news&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-28T11:01:32Z",
+            "content": "<ul><li>In short: Australians made more than 600,000 scam reports last year, losing $2.7 billion overall.</li><li>Older people suffered the greatest losses and there was a notable increase in scams o… [+4693 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Germany summons Russian envoy over alleged cyber spying",
+            "description": "Germany claims Russian cyber espionage group APT 28, otherwise known as Fancy Bear, exploited a unknown vulnerability in Microsoft Outlook to compromise government email accounts as far back as 2022.",
+            "url": "https://www.abc.net.au/news/2024-05-03/germany-summons-russian-envoy-over-alleged-cyberspying/103803974",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a2f46a46d2c2d62359a42b25f5d3667d?impolicy=wcms_watermark_news&cropH=394&cropW=700&xPos=80&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-03T11:39:31Z",
+            "content": "<ul><li>In short: Germany claims Russian cyber espionage group APT 28, otherwise known as Fancy Bear, exploited a vulnerability in Microsoft Outlook to compromise email accounts. </li><li>The cyber a… [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Harry Frost",
+            "title": "Man who impersonated Chinese police officer arrested over virtual kidnapping scam, extradited to Canberra",
+            "description": "A man has been extradited from Queensland and charged with impersonating a police officer and unlawful imprisonment after allegedly committing a virtual kidnap scam on an international student residing in the ACT in 2023.",
+            "url": "https://www.abc.net.au/news/2024-05-08/man-arrested-over-virtual-kidnapping-scam-canberra/103819288",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e8bd2d677cc7728388d7014856fbc386?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-08T01:57:24Z",
+            "content": "<ul><li>In short: A man has been arrested after allegedly impersonating a Chinese police officer in a virtual kidnapping scam.</li><li>Police say Zheming Zhang contacted the alleged victim in August … [+1560 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Arizona grand jury indicts 11 Republican 'fake electors' who falsely declared Trump won the state in 2020",
+            "description": "The Republicans, who had submitted a document to the United States Congress falsely declaring that Donald Trump beat Joe Biden in Arizona in the 2020 presidential election, are charged with conspiracy, fraud and forgery.",
+            "url": "https://www.abc.net.au/news/2024-04-25/arizona-indicts-republicans-donald-trump-election-fraud/103767788",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3958d8a8a83d190e8807213e5874c236?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=75&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-25T03:02:20Z",
+            "content": "<ul><li>In short: Eleven Republicans have been charged with conspiracy, fraud and forgery for falsely declaring to the US Congress that Donald Trump won the 2020 presidential election in Arizona.</li… [+5011 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Michael Atkin",
+            "title": "'It's a total s***show': Aussie small businesses battling tech giant Meta to restore hacked accounts",
+            "description": "After months of back-and-forth with Facebook's customer support, Catherine Wilson now hates the platform and she's not alone. Complaints about scams targeting businesses on Facebook and Instagram are spiking and for many, it's a bigger fight to get the accoun…",
+            "url": "https://www.abc.net.au/news/2024-04-23/meta-accounts-hacked-take-months-to-resolve-small-business/103733494",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f94ff339572a4200a401ae23103f76ae?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-22T18:49:56Z",
+            "content": "<ul><li>In short: Small businesses that have had their social media accounts hacked are facing a lengthy response process from parent company Meta.</li><li>Catherine Wilson's business has lost tens o… [+10288 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Liz Gwynn",
+            "title": "Woman sentenced to home imprisonment after using council money to buy $135k worth of household, hardware and other items for herself",
+            "description": "A Tasmanian woman who worked in administration for the Central Highlands Council has been sentenced to 18 months home detention after defrauding the council of more than $130,000 through personal purchases from Bunnings, Harvey Norman and a liquor store for a…",
+            "url": "https://www.abc.net.au/news/2024-04-19/tasmanian-woman-sentenced-for-fraud-using-council-funds/103745904",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1685b5f4e9b8ed8ce0120cc4a79b6e81?impolicy=wcms_watermark_news&cropH=1680&cropW=2982&xPos=0&yPos=188&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-19T07:49:33Z",
+            "content": "A mother of five who defrauded a Tasmanian Council of more than $130,000 after buying household hardware items and other goods has been sentenced to 18 months home detention.\r\nCasey Maree Bryant was … [+3450 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "James Purtill",
+            "title": "Behind the fake Dr Karls on Facebook is a murky world of scammers, AI, mystery pills and elusive companies",
+            "description": "Scammers on Facebook and Instagram are using a fake, AI-generated Dr Karl to sell health pills to Australians. When users reported the ads to Meta, the company initially said there was nothing wrong with them.",
+            "url": "https://www.abc.net.au/news/science/2024-04-17/scammers-using-fake-ai-dr-karl-to-promote-health-products/103686044",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/4600c9fbff318da24f836f75c9bb255a?impolicy=wcms_watermark_news&cropH=449&cropW=799&xPos=0&yPos=261&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-16T19:30:00Z",
+            "content": "Over a long career, Dr Kruszelnicki, often referred to as Dr Karl, has built a reputation for trust and honesty, promoting knowledge of science and debunking misleading public claims.\r\nHe now unwilli… [+13463 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Matt Bevan and Yasmin Parry",
+            "title": "The man who destroyed his own life to try to put Donald Trump in jail",
+            "description": "Michael Cohen was once Trump's personal attorney and said he would \"take a bullet\" for his boss, so what happened to make him flip?",
+            "url": "https://www.abc.net.au/news/2024-05-11/the-man-trying-to-take-down-trump/103819174",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9feacb546b4b387a4108afe9e0936b1a?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-10T19:10:56Z",
+            "content": "Donald Trump's \"hush-money\" trial in New York is proving tricky for journalists to cover.\r\nPodcastIf You're Listening\r\nWho is Michael Cohen?\r\nMichael Cohen thinks everything he's gone through will be… [+8235 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Peter Martin",
+            "title": "Australians are losing $5,200 per minute to scammers. There's a way to cut that, but so far the government isn't keen",
+            "description": "What if the government was doing everything it could to stop thieves making off with our money, except the one thing that could really work?",
+            "url": "https://www.abc.net.au/news/2024-05-01/australians-losing-5200-scammers-government-solutions/103785960",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/51a1eebf6f32f273abddec5a9fbd599f?impolicy=wcms_watermark_news&cropH=2671&cropW=4749&xPos=0&yPos=436&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-30T20:30:00Z",
+            "content": "What if the government was doing everything it could to stop thieves making off with our money, except the one thing that could really work?\r\nThat's how it looks when it comes to scams, which are att… [+6252 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Andrew Greene",
+            "title": "Marles unveils $50 billion defence spending increase over next decade",
+            "description": "Australia's projected defence spending will increase by another $50 billion over the next decade.",
+            "url": "https://www.abc.net.au/news/2024-04-17/richard-marles-unveils-50b-defence-spending-increase/103734300",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/81788b3c59820f6464304105826d77b8?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-17T02:31:23Z",
+            "content": "Australia's projected defence spending will increase by another $50 billion over the next decade, with the government unveiling an immediate boost of more than $1 billion to accelerate long-range mis… [+1079 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Tom Crowley",
+            "title": "Should the eSafety commissioner regulate hate speech, pile-ons and deepfakes? The government wants public feedback on the idea",
+            "description": "The federal government is seeking public feedback on whether the eSafety commissioner's online enforcement powers should extend to cover hate speech, 'pile-ons' and deepfakes.",
+            "url": "https://www.abc.net.au/news/2024-04-28/government-contemplates-major-expansion-of-esafety-powers/103778180",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/054282bec232f107da7845e371e82fb7?impolicy=wcms_watermark_news&cropH=1689&cropW=3000&xPos=0&yPos=205&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-28T12:30:14Z",
+            "content": "<ul><li>In short: The federal government has released an issues paper which canvasses a major expansion to the powers of the eSafety commissioner.</li><li>It is part of an independent review that wil… [+4322 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Adam Harvey",
+            "title": "Susan Coyle to become the first female chief in the military's 'war-fighting domain'",
+            "description": "Space is the frontier for Major General Susan Coyle, the soon-to-be highest-ranking woman in Australia's military, whose future is bright as she oversees new areas of conflict.",
+            "url": "https://www.abc.net.au/news/2024-04-25/susan-coyle-first-woman-leader-australian-military-warfighting/103765092",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/60650647665987033493624df94e903b?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=106&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-25T05:24:26Z",
+            "content": "Major General Susan Coyle's life on the road began long before she commanded Australia's forces in the Middle East, or led a task force in Afghanistan, or even before she joined the army as a 17-year… [+7598 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Adele Ferguson and Chris Gillett",
+            "title": "Medical fraud, waste, abuse: How some doctors are exploiting the health system",
+            "description": "Medical bills examined by experts reveals how Australian chronic pain sufferers are being apparently billed for fictitious services, inflated costs, and treatments for conditions they don't have.",
+            "url": "https://www.abc.net.au/news/2024-05-01/medical-bills-reveal-fraud-and-exploitation-of-medicare/103784522",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9f999568007cac16af8332ca84d6676a?impolicy=wcms_watermark_news&cropH=699&cropW=1242&xPos=0&yPos=795&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-30T18:52:48Z",
+            "content": "<ul><li>In short: The ABC asked experts to examine the records of several chronic pain patients to determine if any misbilling had occurred.</li><li>They said: \"100 per cent of the anaesthetic claims… [+14544 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Kate Ainsworth",
+            "title": "Qantas confirms technology issue caused data breach that exposed personal information of customers",
+            "description": "Qantas has confirmed that a technology issue was to blame for a glitch affecting its app that allowed customers to view the personal details of other travellers in an apparent privacy breach.",
+            "url": "https://www.abc.net.au/news/2024-05-03/qantas-confirms-technology-issue-caused-app-data-breach/103802206",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/8226d8f9440ea49bcbe0b5d5be685f1b?impolicy=wcms_watermark_news&cropH=608&cropW=1080&xPos=0&yPos=56&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-03T08:43:25Z",
+            "content": "<ul><li>In short: Qantas has confirmed that a technology issue caused its app to show the personal details of its customers to other travellers on Wednesday.</li><li>The ABC understands that a cachin… [+4319 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "National Enquirer publisher says he wrangled with Donald Trump over who should buy sex stories",
+            "description": "Former National Enquirer publisher David Pecker testifies at Donald Trump's criminal trial that he wrangled with Mr Trump and his former lawyer ahead of the 2016 election over who should buy the silence of women who said they had sexual encounters with him.",
+            "url": "https://www.abc.net.au/news/2024-04-26/tabloid-publisher-says-he-wrangled-with-trump-over-sex-stories/103771108",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7be74c52a1ddd11e1b64afea954cd66e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-25T22:10:42Z",
+            "content": "<ul><li>In short: The National Enquirer's publisher testified that it was paid to buy the story of former Playboy model Karen McDougal, who said she had an affair with Donald Trump.</li><li>It was al… [+7225 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Ange Lavoipierre",
+            "title": "How does an ideologically motivated lie travel from alt-right internet backwaters to a national newsroom?",
+            "description": "In the information vacuum immediately following the mass stabbing at Bondi Junction over the weekend, the alt right exploited the opportunity to spread disinformation and hatred on a favourite, lawless social media platform.",
+            "url": "https://www.abc.net.au/news/2024-04-15/screenshot-alt-right-exploits-bondi-junction-attack-with-disinfo/103709852",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9c061c58348de0fc236242c7ae3a8a69?impolicy=wcms_watermark_news&cropH=909&cropW=1616&xPos=0&yPos=170&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-15T08:09:18Z",
+            "content": "Hello and welcome to Screenshot, your weekly tech update from national technology reporter Ange Lavoipierre, featuring the best, worst and strangest in tech and online news. As always, read to the en… [+5309 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Velvet Winter",
+            "title": "Want to see a pre-teen in ballet flats kill some clueless criminals? Abigail may be for you",
+            "description": "Featuring the last filmed performance of Euphoria star Angus Cloud, Abigail’s cast puts in a lot more than they get out of the ambitious but bloated horror comedy.",
+            "url": "https://www.abc.net.au/news/2024-04-19/abigail-review-angus-cloud-melissa-barrara-universal-monsters/103740360",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b446a31299b9a0dbcb9ea60886db2410?impolicy=wcms_watermark_news&cropH=907&cropW=1613&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-18T23:20:31Z",
+            "content": "M3gan fans get ready, because there's a new deadly, not-quite-human pre-teen in town.\r\nFast Facts about Abigail\r\nWhat: A modern reboot/reimagining of the 1936 Universal monster movie Draculas Daughte… [+6104 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Monte Bovill",
+            "title": "Top cop and spy boss urge social media companies to do better on encryption",
+            "description": "Social media companies are slammed by Australia's top police officer for \"pouring accelerant on the flames\" of misinformation and extremism on their platforms, while the boss of ASIO raises concerns encrypted chat services are a \"safe room for terrorists and …",
+            "url": "https://www.abc.net.au/news/2024-04-24/social-media-companies-blamed-for-extremism-by-law-enforcement/103760706",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b2f9cd461fe57bfe4f424505b4346be0?impolicy=wcms_watermark_news&cropH=3267&cropW=5808&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-23T19:22:50Z",
+            "content": "<ul><li>In short: AFP Commissioner Reece Kershaw and ASIO boss Mike Burgess will express their concerns around social media in an address to the National Press Club.</li><li>Their address raises part… [+4717 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Leisa Scott",
+            "title": "Inside an Australian man's mission to help Qatar's World Cup 'slaves'",
+            "description": "Arnold Dix helped thousands of migrant workers who were forced to endure slave-like conditions in Qatar in the lead-up to the 2022 FIFA World Cup. This is why he has been anonymous for so long.",
+            "url": "https://www.abc.net.au/news/2024-04-15/arnold-dix-helped-migrant-workers-of-2022-fifa-world-cup/103610048",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/26322607f22537f33c0f1d35fe35d972?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-14T18:43:14Z",
+            "content": "Before Arnold Dix was hailed a hero for helping rescue 41 men trapped underground in India, he was already a \"silent hero\" to thousands of migrant workers forced to live in slave-like conditions in Q… [+7102 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Samuel Yang",
+            "title": "Live: ASX to open lower, Commonwealth Bank's third-quarter cash profit falls 7pc",
+            "description": "A mixed session on Wall Street is likely to send Australian stocks lower, while the Commonwealth Bank's third-quarter cash profit falls 7 per cent. Follow the latest updates in our live blog.",
+            "url": "https://www.abc.net.au/news/2024-05-09/asx-markets-business-live-news-updates/103823666",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/4811a9d9a9e2bbab2d6f40087b477d07?impolicy=wcms_watermark_news&cropH=1407&cropW=2500&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-08T22:00:19Z",
+            "content": "The Dow Jones Industrial Average ended higher on Wednesday, stretching its winning streak to six straight and closing above 39,000 points for the first time in five weeks, as investors kept betting o… [+1562 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Paul Johnson",
+            "title": "Former home affairs boss Pezzullo issues warning on China, admits his mistakes cost him his job",
+            "description": "The former home affairs secretary had a decorated career in the public service before a series of leaked messages cost him his job. He now admits he has no one to blame but himself.",
+            "url": "https://www.abc.net.au/news/2024-04-22/mike-pezzullo-admits-mistakes-warns-of-china-threat/103754858",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e59064fa6dd9cc0a206d5e5c3b89bf5e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=21&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-22T10:13:02Z",
+            "content": "<ul><li>In short: Mike Pezzullo was dismissed as the home affairs boss after leaked messages to a Liberal powerbroker were revealed.</li><li>He now admits he made mistakes that led to his demise.</li… [+4965 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Alexander Lewis",
+            "title": "Protester interrupts Archbishop during NSW inquiry into transgender legislation",
+            "description": "A protester interrupts the Archbishop of Sydney less than a minute after he had begun comments over his concerns over legislation designed to provide greater protections to transgender people in New South Wales.",
+            "url": "https://www.abc.net.au/news/2024-05-01/protester-interrupts-archbishop-transgender-legislation/103789426",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f1a5fdff19b21a4ebeabe709217b7194?impolicy=wcms_watermark_news&cropH=3213&cropW=5712&xPos=0&yPos=1014&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-01T03:03:54Z",
+            "content": "<ul><li>In short: A protester has interrupted the Archbishop of Sydney during less than a minute into his comments over a proposed bill designed to provide greater protections to trans people.</li><l… [+4376 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Jesse Hyland",
+            "title": "Inner West Council and Transport for NSW workers engaged in corrupt conduct, ICAC finds",
+            "description": "The NSW Independent Commission Against Corruption (ICAC) has made findings of corrupt conduct against ten former employees and contractors working for the Inner West Council and Transport for NSW.",
+            "url": "https://www.abc.net.au/news/2024-04-30/nsw-icac-inner-west-council-transport-nsw-corrupt-conduct/103786438",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/cec920d581535a616205fc1220a422df?impolicy=wcms_watermark_news&cropH=834&cropW=1482&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-30T09:15:17Z",
+            "content": "<ul><li>In short: ICAC found multiple people either employed or contracted by the Inner West Council or Transport for NSW engaged in corrupt conduct.</li><li>Inner West Council and Transport for NSW … [+4946 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Rory McClaren",
+            "title": "'This blast furnace needs to survive': Inside the latest woes for Whyalla's steelworks",
+            "description": "The blast furnace at the heart of Australia's last structural steel-making factory hasn't run since mid-March. South Australians and the state government have legitimate reasons to be concerned, writes Rory McClaren.",
+            "url": "https://www.abc.net.au/news/2024-05-12/whyalla-steelworks-latest-woes-aging-furnace-analysis/103835094",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/eb18a8ac463c86c6e4f4ce4796740247?impolicy=wcms_watermark_news&cropH=1758&cropW=3125&xPos=0&yPos=83&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-11T20:48:48Z",
+            "content": "South Australians, particularly residents in the state's Upper Spencer Gulf, have legitimate reasons to be concerned about what's happening in Whyalla.\r\nThe state government certainly is.\r\nThe blast … [+5080 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Iran signals no retaliation plans after suspected Israeli drone attack",
+            "description": "Iranian officials and state media outlets have refused to name Israel in the aftermath of the suspected drone attack on its territory.",
+            "url": "https://www.abc.net.au/news/2024-04-20/iran-yet-to-retaliate-after-suspected-israeli-drone-attack/103743190",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ea9fa9f5c58f07d9212323e5e80ee248?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=446&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-19T19:22:41Z",
+            "content": "<ul><li>In short: Iranian sources say there are no plans to retaliate against Israel for a strike it is suspected of orchestrating.</li><li>Israel did not speak about the incident and its ally the Un… [+6322 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "‘What on Earth does he think he's doing?’: Bob Carr intends to sue NZ foreign minister over radio interview",
+            "description": "Bob Carr says he intends to sue New Zealand Deputy Prime Minister Winston Peters over controversial remarks made on radio this morning after weeks of debate about AUKUS.",
+            "url": "https://www.abc.net.au/news/2024-05-02/bob-carr-to-sue-nz-winston-peters-over-aukus-radio-interview/103794588",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1be95050e85413052a3fb63bc218b3cf?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-02T05:44:40Z",
+            "content": "<ul><li>In short: New Zealand's Foreign Minister Winston Peters made controversial remarks about Bob Carr on radio and now the former Australian foreign minister has indicated he will commence legal … [+6476 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Linton Besser",
+            "title": "David Pocock is wielding a sword in the Senate — and he has the Department of Defence in his sights",
+            "description": "Since his elevation to the Senate in May 2022, David Pocock has been striking terror into the heart of the establishment, on a mission to hold Canberra to account. Now, he has the Department of Defence in his sights.",
+            "url": "https://www.abc.net.au/news/2024-04-16/david-pocock-on-accountability-mission-department-defence/103708336",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/63443c465c55f0336de0f5de4cf6e948?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=103&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-15T19:00:00Z",
+            "content": "David Pocock is wasting no time in office. His interrogations might be genteel and his tone conciliatory, but the man expects answers. The 35-year-old first-time politician and former rugby internati… [+6965 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Matthew Doran",
+            "title": "Second man charged over Perth bashing revealed to be former detainee released under Coalition's watch",
+            "description": "Another man charged over the alleged bashing of a Perth woman during a violent home invasion is a former immigration detainee released into the community while the Coalition was in government in 2020.",
+            "url": "https://www.abc.net.au/news/2024-05-11/detainee-released-by-coalition-one-of-the-trio-accused-of-attack/103835274",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/052da5bc0302b503053767d9f1be0361?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-11T09:00:00Z",
+            "content": "<ul><li>In short: A man accused of the serious assault of Perth woman Ninette Simons is a former immigration detainee who was released while the Coalition was in power in 2020.</li><li>The Coalition … [+4291 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Toby Mann",
+            "title": "In 20 pictures: The Asia Pacific this week",
+            "description": "A pink Moon rises, baby otters meet the public for the first time, a rare white squirrel is spotted playing in a Beijing park and China hosts an amazing sand sculpture competition — it's been another busy week across the vast Asia Pacific region.",
+            "url": "https://www.abc.net.au/news/2024-04-26/asia-pacific-in-pictures-photostory/103763396",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/eb774e84b2388999c90cabd08470cdc7?impolicy=wcms_watermark_news&cropH=432&cropW=768&xPos=0&yPos=40&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-25T18:57:03Z",
+            "content": "Three baby Asian small-clawed otter brothers, who were born in August, are welcomed by the public at their debut at Osaka Aquarium Kaiyukan, Japan, on April 24.(AFP: Naoki Otsuka/The Yomiuri Shimbun)… [+4150 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Brett Worthington and Matthew Doran",
+            "title": "Extraordinary powers to deport people hang in the balance",
+            "description": "A bid to give the immigration minister extraordinary new powers to deport people and ban others from coming to Australia hangs in the balance, with government and opposition locked in a stand-off.",
+            "url": "https://www.abc.net.au/news/2024-05-11/labor-coalition-immigration-deportation-hangs-in-balance/103831618",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e9d32a9a8b0d06be95d9a06a9873a8a7?impolicy=wcms_watermark_news&cropH=4370&cropW=7768&xPos=0&yPos=114&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-10T19:08:33Z",
+            "content": "<ul><li>In short: Labor and the Coalition are locked in a stand-off over the government's bid to gain extraordinary immigration powers.</li><li>The proposal would allow the immigration minister to fo… [+4664 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Brad Ryan and Barbara Miller",
+            "title": "'Healthiest Individual Ever Elected': How tabloid headlines and fake news have become the story at Trump's trial",
+            "description": "In a bleak Manhattan court, the evidence has centred on the National Enquirer — a gossip rag with a history of specialising in chequebook scoops, true crime, celebrity scuttlebutt and pumping up Donald Trump.",
+            "url": "https://www.abc.net.au/news/2024-04-28/donald-trump-national-enquirer-new-york-hush-money-court-case/103771814",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/939d1e1e6394e64c70fea9c1b8ce5642?impolicy=wcms_watermark_news&cropH=1649&cropW=2931&xPos=34&yPos=318&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-27T18:44:41Z",
+            "content": "There's something deeply meta about a bunch of journalists sitting in court bashing out detailed notes on the behind-the-scenes workings of chequebook journalism.\r\nMost of us not in that world know m… [+11215 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Nate Woodall",
+            "title": "Can you spot which of these faces is generated by AI? Probably not — here's why",
+            "description": "Experts have warned that generative artificial intelligence is now capable of producing images of faces that appear more human than actual faces. So what does this mean for the future of the internet?",
+            "url": "https://www.abc.net.au/news/2024-04-27/artificial-intelligence-ai-faces-fake-images-social-media/103627436",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/31269d55fc9e05087917d2eeda6a7818?impolicy=wcms_watermark_news&cropH=540&cropW=960&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-26T21:50:48Z",
+            "content": "<ul><li>In short: Experts say our ability to distinguish between artificially generated images and genuine photos is rapidly fading.</li><li>A recent ANU study found people are now more likely to ide… [+10746 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Gareth Hutchens",
+            "title": "Why are Australia's unemployment payments so inadequate? Experts say they have been deteriorating for decades",
+            "description": "The Economic Inclusion Advisory Committee says Australia's unemployment benefits are woefully inadequate, and Australia sticks out internationally.",
+            "url": "https://www.abc.net.au/news/2024-05-05/why-are-australias-unemployment-payments-so-inadequate/103804884",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0ff9b8564b8bb7d136fbc56b3c02c72e?impolicy=wcms_watermark_news&cropH=1920&cropW=3413&xPos=0&yPos=259&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-05T01:09:04Z",
+            "content": "The Albanese government's Economic Inclusion Advisory Committee released its second report recently. \r\nFor some reason, it released the report on the Friday between Anzac Day and the weekend, so it d… [+8008 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Echo Hui and Dylan Welch",
+            "title": "For the first time ever, a former spy for China's notorious secret police is going public",
+            "description": "A spy for one of the most feared and powerful arms of China’s intelligence apparatus is revealing his identity as part of a Four Corners investigation.",
+            "url": "https://www.abc.net.au/news/2024-05-13/china-secret-police-operations-revealed-by-spy-four-corners/103826622",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c670078cfe01765520918aced62a18a8?impolicy=wcms_watermark_news&cropH=2384&cropW=4238&xPos=2&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-12T18:58:20Z",
+            "content": "<ul><li>In short: A former spy for China's secret police has revealed his identity and exposed how the regime targets people overseas who are critical of the Chinese government.</li><li>What's next: … [+9160 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Chloe Chomicki",
+            "title": "Optus customer hit by fresh security breach a week after $10,000 was taken from bank account",
+            "description": "Andrew Ryder was recovering from a $10,000 fraud attack when his Optus account was hacked a second time.",
+            "url": "https://www.abc.net.au/news/2024-04-17/optus-fraud-victim-hit-for-second-time-after-losing-10k/103730686",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/acb831ad8d7fe926168084c8269b9949?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-17T02:12:37Z",
+            "content": "<ul><li>In short: Just days after Townsville man Andrew Ryder regained control of his stolen phone number, criminals accessed his Optus account again.</li><li>He had recently lost $10,000 to fraudste… [+3759 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Olivia Sanders",
+            "title": "Another state is introducing digital driver's licences. We asked IT experts about how safe your information is",
+            "description": "Experts question why only one Australian state has implemented internationally recognised \"gold standard\" security measures for digital licences ahead of Victoria's statewide launch next month.",
+            "url": "https://www.abc.net.au/news/2024-04-15/experts-call-for-stronger-security-standards-for-digital-id/103689806",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/175aecd4b6443aaf900cb9a8de82d095?impolicy=wcms_watermark_news&cropH=468&cropW=829&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-14T20:05:54Z",
+            "content": "<ul><li>In short: Cyber security experts are warning unless digital driver's licence apps meet internationally recognised security standards, they could increase risks of fraud.</li><li>They are call… [+5305 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Al Newstead, Jared Richards, Katherine Smyrk, Hannah Story, and Velvet Winter",
+            "title": "Comedian Colin Jost hosts annual White House dinner, Biden gets in barbs about Trump",
+            "description": "Joe Biden jokes that he's \"a grown man running against a six-year-old\" at annual journalists' dinner. Plus all the entertainment and pop culture news you may have missed this weekend.",
+            "url": "https://www.abc.net.au/news/2024-04-29/icymi-colin-jost-white-house-correspondents-dinner-messi-dog/103780004",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e2b87f23b89e5f261828b8d0e8acd0b1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-29T04:44:22Z",
+            "content": "Welcome to your weekly run-down of the entertainment and pop-culture stories you might have missed while you were busy living your life.\r\nFrom literary news to the best jokes and worst moments of the… [+11201 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Georgia Roberts and Krishani Dhanji",
+            "title": "'I want to see my party do better': Backlash over Liberal party stronghold preselection",
+            "description": "Former prime minister Scott Morrison said he wanted a woman to replace him in the very safe seat of Cook. What happened instead has been described as \"blatant, arrogant and overt\" — a concerted campaign driven by some of the country's most influential figures.",
+            "url": "https://www.abc.net.au/news/2024-05-10/how-cook-was-won/103629376",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6ec07acacf3913ba2286e5d0a68853cb?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-09T19:25:18Z",
+            "content": "In 2021, former prime minister Scott Morrison said he wanted a woman to succeed him in the Liberal stronghold of Cook.\r\nAfter a series of public gaffes by Mr Morrison in the fallout from Brittany Hig… [+11106 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Riley Stuart and Lucy Sweeney",
+            "title": "World leaders have fought against this Israeli plan for decades — some say it's closer than ever",
+            "description": "World leaders have fought this Israeli \"doomsday\" settlement plan in the West Bank for decades. But now it's just \"two pen strokes\" away and some are worried the war in Gaza could change everything.",
+            "url": "https://www.abc.net.au/news/2024-04-22/why-israel-gaza-war-could-change-e1-west-bank-settlement/103231782",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1a2fdf79d46c648eda3a2ff77cce8749?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=67&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-21T18:46:12Z",
+            "content": "The decades-old blueprint that could make or break hopes for lasting peace in the Middle East.\r\nIf Dawod Jahalin could live like his ancestors, he would.\r\nBut today, the reality for him and the 300 o… [+15466 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Brianna Morris-Grant",
+            "title": "Ukrainian President Volodymyr Zelenskyy has dismissed assassination plots before — what would his death mean for the war?",
+            "description": "The arrest of multiple people over an alleged Russian plan to assassinate Ukrainian President Volodymyr Zelenskyy is the latest in a long line of reported plots.",
+            "url": "https://www.abc.net.au/news/2024-05-08/zelenskyy-assassination-plot/103818948",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/46939b1c7a980dc3408ea170b95c3254?impolicy=wcms_watermark_news&cropH=1433&cropW=2547&xPos=291&yPos=303&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-08T07:11:37Z",
+            "content": "<ul><li>In short: Ukrainian officials said they have arrested two colonels over an alleged plot to assassinate President Volodymyr Zelenskyy and other high-ranking officials. </li><li>The plot is the… [+9522 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Jostina Basta",
+            "title": "Man pleads not guilty to impersonating Chinese police officer after allegedly extracting $400,000 from international student in Canberra",
+            "description": "Zheming Zhang was granted conditional bail in the ACT Magistrates Court after his arrest last week.",
+            "url": "https://www.abc.net.au/news/2024-05-11/act-virtual-kidnapping-scam-not-guilty/103832940",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f47864b0e7a1688de939012071352a33?impolicy=wcms_watermark_news&cropH=910&cropW=1617&xPos=0&yPos=157&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-05-10T22:10:21Z",
+            "content": "<ul><li>In short: 22-year-old Zheming Zhang has been granted conditional bail after pleading not guilty to virtual kidnapping charges in the ACT Magistrates Court.</li><li>Mr Zhang is charged with fo… [+3231 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Barbara Miller",
+            "title": "'Conspiracy and a cover-up': Key takeaways from court as Trump's first criminal trial gets underway",
+            "description": "A prosecutor lays out the \"Trump Tower conspiracy\", the former president's lawyers argue he's \"cloaked in innocence\", and a former titan of tabloid media educates jurors on chequebook journalism at the historic hush money trial in New York.",
+            "url": "https://www.abc.net.au/news/2024-04-23/donald-trump-hush-money-criminal-trial-court-key-takeaways/103756442",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/39f2039beb40ff80a9263e25fa25bc7e?impolicy=wcms_watermark_news&cropH=2493&cropW=4432&xPos=221&yPos=500&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-22T20:05:07Z",
+            "content": "In a packed Manhattan courtroom, The People of the State of New York v Donald J Trump has formally begun.\r\nOpening arguments in the former president's first criminal trial were presented today (Monda… [+11919 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Alexander Lewis and Holly Tregenza",
+            "title": "Star board chairman replaced days after 'prepping for war' text message revealed in casino regulator hearing",
+            "description": "In a statement to the ASX the company announced that David Foster had been replaced by Anne Ward as chairman of the board, effective immediately.",
+            "url": "https://www.abc.net.au/news/2024-04-29/star-entertainment-ceo-board-david-foster-replaced/103779438",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/bc1784ab652f86821297127d8cc65967?impolicy=wcms_watermark_news&cropH=1215&cropW=2160&xPos=0&yPos=225&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-29T02:44:38Z",
+            "content": "<ul><li>In short: Star Entertainment board chairman David Foster has been replaced. </li><li>Mr Foster's departure from the role comes days after a text message in which he suggested the state's casi… [+2242 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "The questions to ask before lending a partner money",
+            "description": "There are many reasons a romantic partner may need to borrow money, including emergencies, existing debt, or loss of income. What are the risks of loaning it to them?",
+            "url": "https://www.abc.net.au/news/2024-04-30/what-to-consider-before-lending-money-in-romantic-relationship/103708172",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e0cbb27c5e0086d0a3624d4b0e950d8e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-04-30T02:25:02Z",
+            "content": "Lending money is tricky at the best of times. But it's even more complicated when it's your romantic partner asking for a loan.\r\nThere are many reasons a romantic partner may need to borrow money, in… [+4941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Sydney Morning Herald"
+            },
+            "author": "Tim Biggs",
+            "title": "5 things to know about LabHost, the fallen SMS scamming empire",
+            "description": "An international sting operation has taken down a software platform responsible for hundreds of thousands of scam messages.",
+            "url": "https://www.smh.com.au/technology/5-things-to-know-about-labhost-the-fallen-sms-scamming-empire-20240418-p5fkvb.html",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.4366%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_84/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/t_smh_no_label_no_age_social_wm/c930f9315bd9679e0db55459b3569690a4cf8804",
+            "publishedAt": "2024-04-21T19:58:11Z",
+            "content": "The core LabHost offering was its phishing pages. These were hundreds of web pages designed to look like legitimate sites including banks from around the world, postal services and insurance provider… [+4545 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Frank Chung",
+            "title": "Homeowners urged to be vigilant for scams after ‘shocking’ data breach at major smoke alarm provider",
+            "description": "One of Australia’s largest smoke alarm companies left hundreds of thousands of documents containing sensitive customer information exposed online for nearly three months where they were “very likely” accessed by malicious actors, a cybersecurity researcher ha…",
+            "url": "https://www.news.com.au/technology/online/security/homeowners-urged-to-be-vigilant-for-scams-after-shocking-data-breach-at-major-smoke-alarm-provider/news-story/d78807173d75731099a60b23206cde85",
+            "urlToImage": "https://content.api.news/v3/images/bin/17bc699b11ca7c4c02fe231f5847c098",
+            "publishedAt": "2024-04-18T05:00:53Z",
+            "content": "One of Australia’s largest smoke alarm companies left hundreds of thousands of documents containing sensitive customer information exposed online for nearly three months where they were “very likely”… [+5959 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Brielle Burns",
+            "title": "Dolly Everett’s parents share message after she would have turned 21",
+            "description": "Dolly Everett’s parents share message after she would have turned 21news.com.au",
+            "url": "https://www.news.com.au/lifestyle/health/mental-health/happen-to-anyone-dolly-everetts-parents-share-message-on-what-would-have-been-their-daughters-21st-birthday/news-story/e6130363278b5f180aa8b440cc1ad5a1",
+            "urlToImage": "https://content.api.news/v3/images/bin/5a5268f319b56b36b5b4a3843689a874",
+            "publishedAt": "2024-05-09T23:20:37Z",
+            "content": "Amy “Dolly” Everett should have turned 21 last week.\r\nA sweet, free-spirited girl, she would have celebrated the milestone with a plate of birthday pancakes before partying with friends and family li… [+5098 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Jack Quail",
+            "title": "NBN boss Stephen Rue named Optus chief following Kelly Bayer Rosmarin’s resignation",
+            "description": "Embattled telecommunications giant Optus has named former National Broadband Network boss Stephen Rue as its next chief executive.",
+            "url": "https://www.news.com.au/finance/business/technology/nbn-boss-stephen-rue-named-optus-chief-following-kelly-bayer-rosmarins-resignation/news-story/937b6aad322131db19c2c239759cedcc",
+            "urlToImage": "https://content.api.news/v3/images/bin/940b5703cea887d48fc7f03fab454987",
+            "publishedAt": "2024-05-06T01:46:44Z",
+            "content": "Embattled telecommunications giant Optus has named former National Broadband Network boss Stephen Rue as its next chief executive.\r\nMr Rue, who has worked for the NBN Co. since 2014, first as chief f… [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Duncan Evans",
+            "title": "Seven CEO James Warburton leaving network earlier than planned",
+            "description": "Seven West Media chief executive James Warburton is leaving the troubled company more than two months earlier than expected.",
+            "url": "https://www.news.com.au/finance/business/media/james-warburton-is-leaving-seven-network-immediately/news-story/55d855ac44520f3dd9d3ac515f38781e",
+            "urlToImage": "https://content.api.news/v3/images/bin/8b68865e377927d65de8959cda258700",
+            "publishedAt": "2024-04-18T06:58:10Z",
+            "content": "Seven West Media chief executive James Warburton is leaving the troubled company more than two months earlier than expected.\r\n“Current managing director and chief executive officer James Warburton wi… [+3852 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Frank Chung",
+            "title": "Shocking new footage of woman wheeling dead uncle into bank to take out loan",
+            "description": "A Brazilian woman has been arrested after brazenly wheeling the fresh corpse of her uncle into a bank branch where she tried to get him to co-sign a loan with her, in a scene straight out of Weekend at Bernie’s.",
+            "url": "https://www.news.com.au/finance/business/banking/shocking-new-footage-of-woman-wheeling-dead-uncle-into-bank-to-take-out-loan/news-story/b8a67ab80fdaa222a1e69c62fdfe6534",
+            "urlToImage": "https://content.api.news/v3/images/bin/c2a16e5c960712305ef912de23a231a4",
+            "publishedAt": "2024-04-18T00:45:31Z",
+            "content": "A Brazilian woman has been arrested after brazenly wheeling the fresh corpse of her uncle into a bank branch where she tried to get him to co-sign a loan with her, in a scene straight out of Weekend … [+2689 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Duncan Evans",
+            "title": "South Australia moves to ban social media for kids",
+            "description": "South Australia is moving to ban social media for children under the age of 14, as parents and legislators grow increasingly alarmed about the pernicious effects of digital platforms on the development of children.",
+            "url": "https://www.news.com.au/technology/online/social/south-australia-appoints-high-court-justice-to-examine-banning-social-media-for-kids-under-14/news-story/341f7ac6cf437d3a3d34006e8fcd30a7",
+            "urlToImage": "https://content.api.news/v3/images/bin/de00c46ccfed3a4431c6e3516343aa05",
+            "publishedAt": "2024-05-12T05:41:04Z",
+            "content": "South Australia is moving to ban social media for children under the age of 14, as parents and legislators grow increasingly alarmed about the pernicious effects of digital platforms on the developme… [+4008 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Alex Diaz",
+            "title": "Princess Beatrice’s ex found dead in Miami hotel room",
+            "description": "Princess Beatrice was just 17 when she started dating her tragic first love Paolo Liuzzo in 2005.",
+            "url": "https://www.news.com.au/entertainment/celebrity-life/celebrity-deaths/princess-beatrices-ex-found-dead-in-miami-hotel-room/news-story/68126dbd73f68fc4628a6ca497c5f06a",
+            "urlToImage": "https://content.api.news/v3/images/bin/d485aad67e925e60bd8237f0082304a8",
+            "publishedAt": "2024-04-24T21:27:00Z",
+            "content": "Princess Beatrice was just 17 when she started dating her tragic first love Paolo Liuzzo in 2005.\r\nNow, his shock death from a suspected overdose in a Miami hotel comes as insiders said he’d struggle… [+5374 chars]"
+        }
+    ]
+}
