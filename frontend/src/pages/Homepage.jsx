@@ -4,8 +4,8 @@ import Hero from "../components/Homepage/Hero.jsx";
 import ReportSection from "../components/Homepage/ReportSection.jsx";
 import SectionCards from "../components/Homepage/SectionCards.jsx";
 import scrollToTop from "../components/scrollToTop.jsx";
-import PredictSection from "../components/LearningCenter/PredictSection";
-import PassGenSection from "../components/LearningCenter/PassGenSection";
+import PredictSection from "../components/Homepage/Perdiction/PredictSection.jsx";
+import PassGenSection from "../components/Homepage/PasswordGen/PassGenSection.jsx";
 
 //This is the Homepage, where we display and introduce the website functionality.
 const Homepage = () => {

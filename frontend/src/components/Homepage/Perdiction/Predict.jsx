@@ -13,7 +13,7 @@ const Predict = () => {
   const handlePredictClick = () => {
     if (inputMsg != "") {
       axios
-        .post(`https://datamodel.no-scam-au.com/detect/?input=${inputMsg}`)
+        .post(`http://localhost:3003/detect/?input=${inputMsg}`)
         .then((res) => {
           console.log("fetch data: ", res.data.prediction);
           setResult(res.data.prediction);

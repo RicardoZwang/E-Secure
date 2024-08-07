@@ -8,8 +8,20 @@ const NewsFeed = ({ timeframe }) => {
   const [visibleCount, setVisibleCount] = useState(6); // State to track the number of visible articles
 
   useEffect(() => {
-    setArticles(newsData.articles); // Set all fetched articles from local JSON data
-    setDisplayedArticles(newsData.articles.slice(0, 6)); // Display only the first 6 articles initially
+    const fetchNews = async() => {
+      try {
+        const res = await axios.get("http://localhost:3001/news")
+        setArticles(res.data); // Set all fetched articles from local JSON data
+        setDisplayedArticles(res.data.slice(0, 6)); // Display only the first 6 articles initially
+        console.log(res.data);
+      } catch(err) {
+        console.log("Fail to fetch news");
+      }
+    }; 
+    fetchNews();
+
+    // setArticles(newsData.articles); // Set all fetched articles from local JSON data
+    // setDisplayedArticles(newsData.articles.slice(0, 6)); // Display only the first 6 articles initially
   }, [timeframe]);
 
   const handleShowMore = () => {
@@ -60,10 +72,10 @@ const NewsFeed = ({ timeframe }) => {
               </div>
               <div className='px-6 pt-4 pb-2'>
                 <span
-                  key={article.source.id}
+                  key={article.sourceId}
                   className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold  text-gray-700 mr-2 mb-2'
                 >
-                  {article.source.name}
+                  {article.sourceName}
                 </span>
               </div>
             </a>

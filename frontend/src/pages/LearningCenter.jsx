@@ -1,9 +1,9 @@
 import React from "react";
 import styles from "../styles";
 import WordCloud from "../components/LearningCenter/WordCloud";
-import InformationCards from "../components/LearningCenter/InformationCards";
+import InformationCards from "../components/LearningCenter/CaseStudy/InformationCards";
 import scrollToTop from "../components/scrollToTop";
-import ScamCaseAccordin from "../components/LearningCenter/ScamCaseAccordin";
+import ScamCaseAccordin from "../components/LearningCenter/CaseStudy/ScamCaseAccordin";
 
 const LearningCenter = () => {
   scrollToTop(); //Scrolls to the top when page change

@@ -8,6 +8,7 @@ function formatMillions(num) {
   return `${(num / 1e6).toFixed(2)}`;
 }
 const Barchart = () => {
+  console.log(apiUrl);
   const [activeYear, setActiveYear] = useState("2022");
   const [chartData, setChartData] = useState({
     labels: [],

@@ -11,7 +11,6 @@ import MainLayout from "./layouts/MainLayout";
 import Datapage from "./pages/Datapage";
 import Simulation from "./pages/Simulation";
 import LearningCenter from "./pages/LearningCenter";
-import GuideInfoPage from "./pages/GuideInfoPage";
 import NotFoundPage from "./pages/NotFoundPage";
 import News from "./pages/News";
 
@@ -53,10 +52,12 @@ const App = () => {
         <Route path='/simulation' element={<Simulation />} />
         <Route path='/learning_center' element={<LearningCenter />} />
         <Route path='/News' element={<News />} />
-        <Route
+        
+        {/*<Route
           path='/learning_center/guide_info/:category'
           element={<GuideInfoPage />}
-        />
+        />*/}
+        
         <Route path='*' element={<NotFoundPage />} />
       </Route>
     )

@@ -1,3 +1,5 @@
+const { error } = require("console");
+
 module.exports = function (app, connection) {
   const { spawn } = require("child_process");
 
@@ -92,6 +94,17 @@ module.exports = function (app, connection) {
       res.json(results);
     });
   });
+
+  app.get("/news", (req, res)=> {
+    connection.query("SELECT * FROM news", (error,results) => {
+      if(error) {
+        console.error("Failed to fetch news: ", error);
+        res.status(500).send("Error retrieving news data")
+        return;
+      }
+      res.json(results);
+    });
+  })
 };
 
 
